@@ -1,0 +1,16 @@
+.add-task input{
+  width: 400px;
+  height: 50px;
+  font-size: 20px;
+}
+.add-task input[type=submit]
+{
+  width: 150px;
+}
+.task-list{
+  max-width: 800px;
+  margin: auto;
+}
+.task-list table{
+  margin: auto;
+}
